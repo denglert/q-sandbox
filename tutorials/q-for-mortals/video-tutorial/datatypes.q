@@ -12,4 +12,9 @@ type 42
 -1"type 42i";
 type 42i
 
+-1"--- date ---";
+-1"type 2000.01.01";
+type 2000.01.01
+
+
 exit 0;
