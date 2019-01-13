@@ -83,6 +83,10 @@ pxs:(1+nentries?.03)*172.0 1189.0 1073.0 ixs
 -1"t:([] date:dates;time:times;sym:syms;qty:qtys;px:pxs)";
 t:([] date:dates;time:times;sym:syms;qty:qtys;px:pxs)
 
+-1"";
+
+-1"type t";
+type t
 
 -1"";
 
